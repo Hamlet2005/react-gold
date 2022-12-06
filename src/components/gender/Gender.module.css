@@ -1,0 +1,23 @@
+.container{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: #E6E6E6;
+}
+
+.gender{
+  width: 50px; height: 32px;
+  background-color: #fff;
+  cursor: pointer;
+  color: #939393;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px; margin-left: 10px;
+  margin-bottom: 16px;
+  border-radius: 5px;
+}
+
+.active{
+  color: #0008C1;
+}

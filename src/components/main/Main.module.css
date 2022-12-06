@@ -1,0 +1,12 @@
+.main{
+    background-color: #E6E6E6;
+    width: 100%;
+}
+
+.genderCategory{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-left: 50px;
+    padding-top: 40px;
+}

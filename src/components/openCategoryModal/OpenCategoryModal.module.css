@@ -1,0 +1,77 @@
+.btn {
+    width: 50px;
+    height: 80px;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: #fff;
+    color: black;
+    border: none;
+    box-shadow: 1px 1px 2px 2px #999;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    align-items: center;
+}
+
+.h1{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.btn1{
+    border: none;
+    background-color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+}
+
+.gender {
+    margin-top: 10px;
+    width: 125px;
+    height: 32px;
+    box-shadow: 1px 1px 2px 2px #999;
+    background-color: #fff;
+    cursor: pointer;
+    color: #939393;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    gap: 10px;
+}
+
+.active {
+    color: #0008C1;
+}
+
+.input{
+    width: 260px;
+    border: none;
+    background-color: #fff;
+    border-radius: 0;
+    border-bottom: 1px solid black;
+    margin: 10px auto;
+}
+
+.btn2{
+    width: 260px;
+    height: 32px;
+    border-radius: 25px;
+    color: #fff;
+    background-color: #0008C1;
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}

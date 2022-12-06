@@ -1,0 +1,30 @@
+.p{
+  text-align: left;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.container{
+  margin-left: 127px;
+  display: flex;
+  align-items: center;
+  gap: 44px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  margin-top: 0;
+  row-gap: 5px;
+}
+
+.active{
+  color: blue;
+}
+
+.head{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 90%;
+  margin: 0;
+}
+

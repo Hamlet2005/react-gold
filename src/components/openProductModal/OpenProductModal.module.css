@@ -1,0 +1,80 @@
+.btn {
+  width: 50px;
+  height: 40px;
+  font-size: 15px;
+  background-color: #fff;
+  border: none;
+  box-shadow: 1px 1px 2px 2px #999;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.genderCategory {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-left: 50px;
+  padding-top: 40px;
+}
+
+.p {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0;
+  margin-left: 20px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+
+.btn1 {
+  border: none;
+  background-color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.btn2 {
+  width: 260px;
+  height: 32px;
+  border-radius: 25px;
+  color: #fff;
+  background-color: #0008C1;
+  margin-top: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.block{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  width: 220px;
+  border: none;
+  background-color: #fff;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.h1{
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.box1{
+  height: 50px;
+}
